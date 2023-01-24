@@ -23,15 +23,15 @@ I am a postdoc at the Institute for AI Industry Research (AIR) of Tsinghua Unive
 - <font face="Cambria">Zhuang Liu, Degen Huang, <b>Kaiyu Huang</b>, Zhuang Li, Jun Zhao. FinBERT: A Pre-trained Financial Language Representation Model for Financial Text Mining. In <i>Proceedings of IJCAI 2020</i>.</font>
 - <font face="Cambria">**Kaiyu Huang**, Junpeng Liu, Degen Huang, Deyi Xiong, Zhuang Liu, Jinsong Su. Enhancing Chinese Word Segmentation via Pseudo Labels for Practicability. In <i>Findings of ACL 2021</i>.</font>
 
-[Full List](publications.md)
+<font face="Arial">[Full List](publications.md)</font>
 
 ---
 <b><font size=4 face="Arial">Education</font></b>
-* B.S., Computer Science and Technology and Japanese, Dalian University of Technology, 09/2011-06/2016
+* <font face="Cambria">B.S., Computer Science and Technology and Japanese, Dalian University of Technology, 09/2011-06/2016</font>
 
-* M.S., Computer Science and Technology, Dalian University of Technology, 09/2016-09/2018
+* <font face="Cambria">M.S., Computer Science and Technology, Dalian University of Technology, 09/2016-09/2018</font>
 
-* Ph.D., Computer Application Technology, Dalian University of Technology, 09/2018-09/2021
+* <font face="Cambria">Ph.D., Computer Application Technology, Dalian University of Technology, 09/2018-09/2021</font>
 
 ---
-Last-updated: Jan 25, 2023.
+<font face="Cambria">Last-updated: Jan 25, 2023.</font>
