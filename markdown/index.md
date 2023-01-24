@@ -19,11 +19,11 @@ I am a postdoc at the Institute for AI Industry Research (AIR) of Tsinghua Unive
 
 - <font face="Cambria"><b>Kaiyu Huang</b>, Peng Li, Jin Ma, Yang Liu. Entropy-Based Vocabulary Substitution for Incremental Learning in Multilingual Neural Machine Translation. In <i>Proceedings of EMNLP 2022</i>.</font>
 - <font face="Cambria"><b>Kaiyu Huang</b>, Degen Huang, Zhuang Liu, Fengran Mo. A Joint Multiple Criteria Model in Transfer Learning for Cross-domain Chinese Word Segmentation. In <i>Proceedings of EMNLP 2020</i>.</font>
-- <font face="Cambria">**Kaiyu Huang**, Keli Xiao, Fengran Mo, Bo Jin, Zhuang Liu, Degen Huang. Domain-Aware Word Segmentation for Chinese Language: A Document-Level Context-Aware Model. <i>TALLIP</i>.</font>
+- <font face="Cambria"><b>Kaiyu Huang</b>, Keli Xiao, Fengran Mo, Bo Jin, Zhuang Liu, Degen Huang. Domain-Aware Word Segmentation for Chinese Language: A Document-Level Context-Aware Model. <i>TALLIP</i>.</font>
 - <font face="Cambria">Zhuang Liu, Degen Huang, <b>Kaiyu Huang</b>, Zhuang Li, Jun Zhao. FinBERT: A Pre-trained Financial Language Representation Model for Financial Text Mining. In <i>Proceedings of IJCAI 2020</i>.</font>
-- <font face="Cambria">**Kaiyu Huang**, Junpeng Liu, Degen Huang, Deyi Xiong, Zhuang Liu, Jinsong Su. Enhancing Chinese Word Segmentation via Pseudo Labels for Practicability. In <i>Findings of ACL 2021</i>.</font>
+- <font face="Cambria"><b>Kaiyu Huang</b>, Junpeng Liu, Degen Huang, Deyi Xiong, Zhuang Liu, Jinsong Su. Enhancing Chinese Word Segmentation via Pseudo Labels for Practicability. In <i>Findings of ACL 2021</i>.</font>
 
-<font face="Arial">[Full List](publications.md)</font>
+<font face="Arial">[Full List](publications.html)</font>
 
 ---
 <b><font size=4 face="Arial">Education</font></b>

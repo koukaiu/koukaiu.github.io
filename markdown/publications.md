@@ -1,0 +1,29 @@
+<b><font size=5 face="Arial">Publications</font></b>
+
+---
+1. <font face="Cambria">Kaiyu Huang, Peng Li, Jin Ma, Yang Liu. <b>Entropy-Based Vocabulary Substitution for Incremental Learning in Multilingual Neural Machine Translation</b>. In <i>Proceedings of EMNLP 2022</i>.</font>
+1. <font face="Cambria">Junpeng Liu, Kaiyu Huang, Jiuyi Li, Huan Liu, Jinsong Su, Degen Huang. <b>Adaptive Token-level Cross-lingual Feature Mixing for Multilingual Neural Machine Translation</b>. In <i>Proceedings of EMNLP 2022</i>.</font>
+1. <font face="Cambria">Hao Yu, Kaiyu Huang, Yu Wang, Degen Huang. <b>Lexicon‐Augmented Cross‐Domain Chinese Word Segmentation with Graph Convolutional Network</b>. <i>Chinese Journal of Electronics</i>.</font>
+1. <font face="Cambria">Kaiyu Huang, Jingxiang Cao, Zhuang Liu, Degen Huang. <b>Word‐Based Method for Chinese Part‐of‐Speech via Parallel and Adversarial Network</b>. <i>Chinese Journal of Electronics</i>.</font>
+1. <font face="Cambria">Wei Liu, Kaiyu Huang, Hao Yu, Degen Huang. <b>Consistency Check for Chinese Word Segmentation via Contextual Similarity</b>. <i>Acta Scientiarum Naturalium Universitatis Pekinensis</i>. <font face="Arial"><i>(in Chinese)</i></font></font>
+1. <font face="Cambria">Kaiyu Huang, Keli Xiao, Fengran Mo, Bo Jin, Zhuang Liu, Degen Huang. <b>Domain-Aware Word Segmentation for Chinese Language: A Document-Level Context-Aware Model</b>. <i>ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)</i>.</font>
+1. <font face="Cambria">Huan Liu, Junpeng Liu, Kaiyu Huang, Degen Huang. <b>DUTNLP Machine Translation System for WMT21 Triangular Translation Task</b>. In <i>Proceedings of WMT 2021</i>.</font>
+1. <font face="Cambria">Kaiyu Huang, Hao Yu, Junpeng Liu, Wei Liu, Jingxiang Cao, Degen Huang. <b>Lexicon-Based Graph Convolutional Network for Chinese Word Segmentation</b>. In <i>Findings of EMNLP 2021</i>.</font>
+1. <font face="Cambria">Mieradilijiang Maimaiti, Yang Liu, Yuanhang Zheng, Gang Chen, Kaiyu Huang, Ji Zhang, Huanbo Luan, Maosong Sun. <b>Segment, Mask, and Predict: Augmenting Chinese Word Segmentation with Self-Supervision</b>. In <i>Proceedings of EMNLP 2021</i>.</font>
+1. <font face="Cambria">Junpeng Liu, Kaiyu Huang, Jiuyi Li, Huan Liu, Degen Huang. <b>Adaptive Transformer for Multilingual Neural Machine Translation</b>. In <i>Proceedings of NLPCC 2021</i>.</font>
+1. <font face="Cambria">Kaiyu Huang, Junpeng Liu, Degen Huang, Deyi Xiong, Zhuang Liu, Jinsong Su. <b>Enhancing Chinese Word Segmentation via Pseudo Labels for Practicability</b>. In <i>Findings of ACL 2021</i>.</font>
+1. <font face="Cambria">Zhuang Liu, Degen Huang, Kaiyu Huang, Zhuang Li, Jun Zhao. <b>FinBERT: A Pre-trained Financial Language Representation Model for Financial Text Mining</b>. In <i>Proceedings of IJCAI 2020</i>.</font>
+1. <font face="Cambria">Kaiyu Huang, Junpeng Liu, Jingxiang Cao, Degen Huang. <b>Context-Aware Word Segmentation for Chinese Real-World Discourse</b>. In <i>Proceedings of IWDP 2020</i>.</font>
+1. <font face="Cambria">Kaiyu Huang, Degen Huang, Zhuang Liu, Fengran Mo. <b>A Joint Multiple Criteria Model in Transfer Learning for Cross-domain Chinese Word Segmentation</b>. In <i>Proceedings of EMNLP 2020</i>.</font>
+1. <font face="Cambria">Zhuang Liu, Kaiyu Huang, Degen Huang, Zhuang Liu, Jun Zhao. <b>Dual Head-Wise Coattention Network for Machine Comprehension with Multiple-Choice Questions</b>. In <i>Proceedings of CIKM 2020</i>.</font>
+1. <font face="Cambria">Zhuang Liu, Degen Huang, Kaiyu Huang. <b>Pretraining Financial Text Encoder Enhanced by Lifelong Learning</b>. <i>IEEE Access</i>.</font>
+1. <font face="Cambria">Zhuang Liu, Keli Xiao, Bo Jin, Kaiyu Huang, Degen Huang, Yunxia Zhang. <b>Unified Generative Adversarial Networks for Multiple-Choice Oriented Machine Comprehension</b>. <i>ACM Transactions on Intelligent Systems and Technology (TIST)</i>.</font>
+1. <font face="Cambria">Zhuang Liu, Kaiyu Huang, Degen Huang, Jun Zhao. <b>Semantics-Reinforced Networks for Question Generation</b>. In <i>Proceedings of ECAI 2020</i>.</font>
+1. <font face="Cambria">Yu Zhang, Li Guo, Degen Huang, Kaiyu Huang, Jiuyi Li, Zhang Pan. <b>English Drug Name Entity Recognition Method Based on Attention Mechanism BiLSTM-CRF</b>. In <i>Proceedings of ISKE 2019</i>.</font>
+1. <font face="Cambria">Zhuang Liu, Kaiyu Huang, Ziyu Gao, Degen Huang. <b>Knowledge-Aware LSTM for Machine Comprehension</b>. In <i>Proceedings of ISKE 2019</i>.</font>
+1. <font face="Cambria">Degen Huang, Jiahuan Pei, Cong Zhang, Kaiyu Huang, Jianjun Ma. <b>Incorporating Prior Knowledge into Word Embedding for Chinese Word Similarity Measurement</b>. <i>ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)</i>.</font>
+1. <font face="Cambria">Jing Zhang, Degen Huang, Kaiyu Huang, Zhuang Liu. <b>Corpus Expansion for Neural CWS on Microblog-Oriented Data with λ-Active Learning Approach</b>. <i>IEICE TRANSACTIONS on Information and Systems</i>.</font>
+1. <font face="Cambria">Degen Huang, Jing Zhang, Kaiyu Huang. <b>Automatic Microblog‐Oriented Unknown Word Recognition with Unsupervised Method</b>. <i>Chinese Journal of Electronics</i>.</font>
+1. <font face="Cambria">Jing Zhang, Kaiyu Huang, Chen Liang, Degen Huang. <b>Unsupervised New Word Extraction from Chinese Social Media Data</b>. <i>Journal of Chinese Information Processing</i>. <font face="Arial"><i>(in Chinese)</i></font></font>
+1. <font face="Cambria">Zhuang Liu, Degen Huang, Kaiyu Huang, Jing Zhang. <b>DIM Reader: Dual Interaction Model for Machine Comprehension</b>. In <i>Proceedings of CCL 2017</i>.</font>
+1. <font face="Cambria">Jing Zhang, Degen Huang, Kaiyu Huang, Zhuang Liu. <b>Research on Attention Memory Networks as A Model for Learning Natural Language Inference</b>. In <i>Proceedings of the Workshop on Structured Prediction for NLP (2016)</i>.</font>
