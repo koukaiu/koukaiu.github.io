@@ -1,6 +1,9 @@
 <b><font size=5 face="Arial">Publications</font></b>
 
 ---
+1. <font face="Cambria">Fengran Mo, Jian-Yun Nie, <b>Kaiyu Huang</b>, Kelong Mao, Yutao Zhu, Peng Li, Yang Liu. Learning to Relate to Previous Turns in Conversational Search. In <i>Proceedings of SIGKDD 2023</i>.</font>
+1. <font face="Cambria"><b>Kaiyu Huang</b>, Peng Li, Jin Ma, Ting Yao, Yang Liu. Knowledge Transfer in Incremental Learning for Multilingual Neural Machine Translation. In <i>Proceedings of ACL 2023</i>.</font>
+1. <font face="Cambria">Fengran Mo, Kelong Mao, Yutao Zhu, Yihong Wu, <b>Kaiyu Huang</b>, Jian-Yun Nie. ConvGQR: Generative Query Reformulation for Conversational Search. In <i>Proceedings of ACL 2023</i>.</font>
 1. <font face="Cambria">Kaiyu Huang, Peng Li, Jin Ma, Yang Liu. <b>Entropy-Based Vocabulary Substitution for Incremental Learning in Multilingual Neural Machine Translation</b>. In <i>Proceedings of EMNLP 2022</i>.</font>
 1. <font face="Cambria">Junpeng Liu, Kaiyu Huang, Jiuyi Li, Huan Liu, Jinsong Su, Degen Huang. <b>Adaptive Token-level Cross-lingual Feature Mixing for Multilingual Neural Machine Translation</b>. In <i>Proceedings of EMNLP 2022</i>.</font>
 1. <font face="Cambria">Hao Yu, Kaiyu Huang, Yu Wang, Degen Huang. <b>Lexicon‐Augmented Cross‐Domain Chinese Word Segmentation with Graph Convolutional Network</b>. <i>Chinese Journal of Electronics</i>.</font>
