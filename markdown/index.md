@@ -2,13 +2,13 @@
 
 <font face="Arial"><b>Assistant Professor</b>
 
-Institute for AI Industry Research (AIR), Beijing Jiaotong University, China</font>
+Computer and Information Technology, Beijing Jiaotong University, China</font>
 
 <font face="Arial">Email: kaiyuhuang@hotmail.com & kyhuang@bjtu.edu.cn</font>
 
 <font face="Cambria">
 
-I am a research assistant professor at the, forming the Language Intelligence Explorer (LIE) Lab. I was a postdoc at the Institute for AI Industry Research (AIR) of Tsinghua University, working with Prof. Yang Liu. I obtained a Ph.D. degree in the School of Computer Science at Dalian University of Technology (09.2021), advised by Prof. Degen Huang. Specifically, I favor the following research perspectives on natural language processing, including Multilingual AI, Large Language Model (LLM), Continual Learning, Neural Machine Translation (NMT), Conversational Information Retrieval (CIR), etc.
+I am a research assistant professor at the School of Computer and Information Technology of Beijing Jiaotong University, forming the Language Intelligence Explorer (LIE) Lab. I received ACL 2023 Outstanding Paper Award. I was a postdoc at the Institute for AI Industry Research (AIR) of Tsinghua University, working with Prof. Yang Liu. I obtained a Ph.D. degree in the School of Computer Science at Dalian University of Technology (09.2021), advised by Prof. Degen Huang. Specifically, I favor the following research perspectives on natural language processing, including Multilingual AI, Large Language Model (LLM), Continual Learning, Neural Machine Translation (NMT), Conversational Information Retrieval (CIR), etc.
 
 <!-- Moreover, I am also interested in Japanese. During my Ph.D., I have joined multiple research projects and foundations, including "The National Natural Science Foundation of China", "National Key R&D Program of China", etc.  -->
 </font>
